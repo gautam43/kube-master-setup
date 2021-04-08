@@ -1,0 +1,4 @@
+---
+# vars file for kube-master-setup
+cidr: '10.240.0.0/16'
+loc_dir: 'ans_kube_cluster'
